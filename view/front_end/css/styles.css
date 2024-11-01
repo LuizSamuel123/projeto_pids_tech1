@@ -1,0 +1,181 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#h1, .centro, .p1{
+	text-align: center;
+}
+.esq{
+	text-align:left;
+}
+.hr1{
+	background-color:#7C2ADC;
+	width: 100%;
+	height: 5px;
+	border-radius: 1px;
+}
+.pText{
+	text-align: justify;
+	font-family: OCR A Std, monospace;
+	border: 3px solid purple;
+	font-size: 14px;
+	margin-top: 3%;
+	margin-bottom: 3%;
+	margin-left: 3%;
+	margin-right: 3%;
+	background-color: #D8BFD8;
+	border-radius: 15px;
+	line-height: 17px;
+
+}
+.pText2{
+	font-family: OCR A Std, monospace;
+	font-size: 24px;
+	margin-top: 3%;
+	margin-bottom: 3%;
+	margin-left: 3%;
+	margin-right: 3%;
+	background-color: #D8BFD8;
+	border-radius: 15px;
+}
+
+.pText3{
+	font-family: OCR A Std, monospace;
+	text-align:center;
+	font-size: 24px;
+	margin-top: 3%;
+	margin-bottom: 3%;
+	margin-left: 3%;
+	margin-right: 3%;
+	background-color: #D8BFD8;
+	border-radius: 15px;
+}
+.pTitulo{
+	font-family: OCR A Std, monospace;
+	font-weight: bold;
+	font-size: 20px;	
+	text-align: center;	
+}
+.rep{
+		font-family: OCR A Std, monospace;
+	font-weight: bold;
+	font-size: 20px;	
+	text-align: center;	
+}
+.texto{
+	text-align: center;
+	font-family: OCR A Std, monospace;
+	font-size: 18px;
+	margin-bottom: 3%;
+	margin-right: 3%;
+}
+.titulos{
+	text-align: center;
+	font-family: OCR A Std, monospace;
+	font-size: 16px;
+}
+.imagens{
+	text-align: center;
+}
+.hr2{
+	background-color:#7C2ADC;
+	width: 100%;
+	height: 5px;
+	border-radius: 1px;
+}
+.pLoc{
+	text-align: center;
+	font-family: arial;
+	font-size: 18px;
+	margin-bottom: 0.5%;
+	margin-top: 0.5%;
+}
+
+.aviso{
+	text-align:  center;
+	font-size:40px;
+
+}
+
+#backToTop{
+	background-color: #23DDCB;
+    border: 10px solid #2A2062;
+	text-decoration: none;
+	color:#2A2062;
+	
+}
+
+.linkRedes{
+	text-decoration:none;
+}
+.imgRedes{
+	width: 30px;
+    height: 30px;
+	margin-right:15px;
+	
+}
+.img{
+	width: 50%;
+	height: 50%;
+}
+.img2{
+	width: 9.9%;
+	height: 20%;
+}
+
+main {
+  justify-content: space-between;
+  align-items: flex-start; 
+  padding: 20px;
+}
+
+#imgLogo {
+  flex: 1;
+  margin-right: 20px;
+  margin-top: 3%;
+  width: 400px;
+  height: auto;
+  margin-bottom: 20px; 
+}
+  
+    
+#Domicilios-com-computador{
+	width: 60%;
+	height: auto;
+}
+
+#Domicilios-com-computador2{
+	
+	width: 10%;
+	height: auto;
+	
+	
+}
+.pTexto{
+	
+	font-family: times new roman;
+	font-size: 17px;
+	text-align: justify;
+	
+}
+
+
+
+.pTitulo2{
+	font-family: Times New Roman, serif;
+	font-weight: bold;
+	font-size: 35px;
+}
+
+#gMapas{
+	width: 100%;
+	height: 500px;
+}
+
+#iframeMaps{
+	
+width: 100%;
+height:500px;
+	
+}
